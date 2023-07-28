@@ -1,1 +1,1 @@
-# INFO7250_Global-Earthquakes-Data-Analytics
+# Global-Earthquakes-Data-Analytics
